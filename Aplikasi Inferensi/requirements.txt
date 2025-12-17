@@ -1,0 +1,2 @@
+streamlit -> (import streamlit as st)
+pyswip -> (from pyswip import Prolog)
